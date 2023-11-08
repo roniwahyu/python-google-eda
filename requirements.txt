@@ -6,6 +6,7 @@ numpy>=1.18.5
 matplotlib>=3.2.2
 ipyleaflet>=0.14.0
 sympy>=1.10.1
+xgboost
 
 # Machine learning ----------------------------
 scikit-learn
